@@ -259,7 +259,8 @@ body,
 textarea,
 button,
 input {
-    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Kanit', sans-serif;
 }
 
 h1,
