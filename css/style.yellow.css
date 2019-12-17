@@ -269,7 +269,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Hind', sans-serif;
+    /* font-family: 'Hind', sans-serif; */
+    font-family: 'Kanit', sans-serif;
 }
 
 p {
