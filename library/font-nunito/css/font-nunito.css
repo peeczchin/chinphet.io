@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Nunito'; 
+    src: url('../fonts/Nunito-Black.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-Black.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-BlackItalic.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-Bold.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-BoldItalic.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-ExtraBold.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-ExtraBoldItalic.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-ExtraLite.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-BlackLiteItalic.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-Regular.ttf?v=1.0.1') format('truetype'), 
+    url('../fonts/Nunito-SemiBold.ttf?v=1.0.1') format('truetype'),
+    url('../fonts/Nunito-SemiBoldItalic.ttf?v=1.0.1') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
