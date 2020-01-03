@@ -3,7 +3,7 @@
 
 [INSTA, Main Stylesheet ]
 
-    Color        : YELLOW ( #FFC300 )
+    Color        : YELLOW ( #50d4d4 )
 
     Name         : INSTA - Responsive Onepage Resume Template
 
@@ -108,7 +108,7 @@
     width: 20px;
     height: 20px;
     opacity: 0.8;
-    background-color: #FFC300;
+    background-color: #50d4d4;
     -webkit-animation: loaderBlock 1.2s infinite ease-in-out both;
     animation: loaderBlock 1.2s infinite ease-in-out both;
 }
@@ -362,7 +362,7 @@ body {
 
 .intro-content h1 span,
 .main-heading h1 span {
-    color: #FFC300;
+    color: #50d4d4;
 }
 
 .intro-content h2 {
@@ -388,7 +388,7 @@ body {
 
 .social-media a + .tooltip > .tooltip-inner {
     background-color: transparent;
-    color: #FFC300;
+    color: #50d4d4;
     font-size: 16px;
 }
 .social-media a + .tooltip > .tooltip-arrow {
@@ -398,7 +398,7 @@ body {
 /*Bootstrap tooltips Customized*/
 
 .social-media a:hover {
-    color: #FFC300;
+    color: #50d4d4;
 }
 
 /* ( c ) Navigation Menu */
@@ -479,7 +479,7 @@ body {
 }
 
 .heading h2 span {
-    color: #FFC300;
+    color: #50d4d4;
 }
 
 .heading h3 {
@@ -548,7 +548,7 @@ body {
 }
 
 .main-heading h1:after {
-    background-color: #FFC300;
+    background-color: #50d4d4;
     position: absolute;
     content: "";
     top: 100%;
@@ -588,11 +588,11 @@ body {
 
 .story-content img {
     padding: 0;
-    border: 1px solid #FFC300;
+    border: 1px solid #50d4d4;
 }
 
 .story-content div h3 {
-    color: #FFC300;
+    color: #50d4d4;
     line-height: 1;
     margin-top: 0;
     font-size: 20px;
@@ -603,8 +603,8 @@ body {
 }
 
 .story-content div a {
-    border: 1px solid #FFC300;
-    color: #FFC300;
+    border: 1px solid #50d4d4;
+    color: #50d4d4;
     display: block;
     float: left;
     margin: 29px 5px;
@@ -619,14 +619,14 @@ body {
 }
 
 .story-content div a:hover {
-    background: #FFC300;
+    background: #50d4d4;
     color: #fff;
 }
 
 /* ( b ) What Can I Do */
 
 .services-container {
-    background: #FFC300;
+    background: #50d4d4;
 }
 
 .services-container h2 {
@@ -651,7 +651,7 @@ body {
     background: #fff;
     border-radius: 50%;
     box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.15), 0 0 0 0 rgba(255, 255, 255, 0.3);
-    color: #FFC300;
+    color: #50d4d4;
     font-size: 36px;
     height: 60px;
     line-height: 60px;
@@ -701,7 +701,7 @@ body {
 }
 
 .education-container:before {
-    background: #FFC300;
+    background: #50d4d4;
     content: "";
     height: 96%;
     left: 50px;
@@ -716,8 +716,8 @@ body {
 }
 
 .education-container .bullet {
-    background: #FFC300;
-    border: 5px solid #f5f5f5;
+    background: #001eff;
+    border: 5px solid #001eff;
     border-radius: 50%;
     height: 30px;
     left: 21px;
@@ -740,7 +740,7 @@ body {
 }
 
 .education-content h3 {
-    background: #FFC300;
+    background: #50d4d4;
     color: #fff;
     display: block;
     margin: 0;
@@ -749,7 +749,7 @@ body {
 }
 
 .education-content h3:before {
-    border-color: transparent #FFC300 transparent transparent;
+    border-color: transparent #50d4d4 transparent transparent;
     border-image: none;
     border-style: solid;
     border-width: 10px;
@@ -770,7 +770,8 @@ body {
 /* ( b ) Experience Section */
 
 .experience {
-    background: #FFC300;
+    /* background: #50d4d4; */
+    background: #50d4d4;
 }
 
 .experience h2 {
@@ -795,7 +796,7 @@ body {
 
 .experience-container .bullet {
     background: #fff;
-    border: 5px solid #FFC300;
+    border: 5px solid #50d4d4;
     border-radius: 50%;
     height: 30px;
     right: 21px;
@@ -814,7 +815,7 @@ body {
 
 .experience-content h3 {
     background: #fff;
-    color: #FFC300;
+    color: #50d4d4;
     display: block;
     margin: 0;
     line-height: 1.42;
@@ -887,8 +888,8 @@ body {
 
 .filter {
     background: none;
-    border: 1px solid #FFC300;
-    color: #FFC300;
+    border: 1px solid #50d4d4;
+    color: #50d4d4;
     margin: 10px 0;
     padding: 10px 25px;
     -webkir-transition: all 0.3s;
@@ -899,12 +900,12 @@ body {
 }
 
 .filter:hover {
-    background: #FFC300;
+    background: #50d4d4;
     color: #fff;
 }
 
 .filter.active {
-    background: #FFC300;
+    background: #50d4d4;
     color: #fff;
 }
 
@@ -1023,7 +1024,7 @@ body {
 
 .popup_content {
     max-width: 500px;
-    border: 5px solid #FFC300;
+    border: 5px solid #50d4d4;
     background: #fff;
 }
 
@@ -1043,8 +1044,8 @@ body {
 }
 
 .popup_content a {
-    border: 1px solid #FFC300;
-    color: #FFC300;
+    border: 1px solid #50d4d4;
+    color: #50d4d4;
     display: block;
     width: 150px;
     margin: 30px auto;
@@ -1059,7 +1060,7 @@ body {
 }
 
 .popup_content a:hover {
-    background: #FFC300;
+    background: #50d4d4;
     color: #fff;
 }
 
@@ -1068,7 +1069,7 @@ body {
 /* ( b )  Testimonial Section */
 
 .testimonials {
-    background: #FFC300;
+    background: #50d4d4;
 }
 
 .testimonials h2 {
@@ -1115,7 +1116,7 @@ body {
 
 .contact-form input,
 .contact-form textarea {
-    border: 1px solid #FFC300;
+    border: 1px solid #50d4d4;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1157,14 +1158,14 @@ body {
 .contact-form textarea:focus,
 .contact-form input:hover,
 .contact-form textarea:hover {
-    box-shadow: 0px 0px 3px 0px #FFC300;
+    box-shadow: 0px 0px 3px 0px #50d4d4;
 }
 
 .contact-form button {
     background: none;
     border-radius: 2px;
-    border: 1px solid #FFC300;
-    color: #FFC300;
+    border: 1px solid #50d4d4;
+    color: #50d4d4;
     margin: 10px 0;
     padding: 10px 25px;
     text-align: center;
@@ -1176,7 +1177,7 @@ body {
 }
 
 .contact-form button:hover {
-    background: #FFC300;
+    background: #50d4d4;
     color: #fff;
 }
 
@@ -1243,7 +1244,7 @@ body {
 
 .contact-details .social-media a + .tooltip > .tooltip-inner {
     background-color: #343333;
-    color: #FFC300;
+    color: #50d4d4;
     font-size: 16px;
     padding: 3px 10px 5px 10px;
     border-radius: 2px;
@@ -1259,7 +1260,7 @@ body {
                       -------------*/
 
 .footer {
-    background: #FFC300;
+    background: #50d4d4;
     padding: 10px 20px 6px 20px;
 }
 
